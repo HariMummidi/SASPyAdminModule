@@ -17,4 +17,4 @@ Current 8 functionalites available:
 
 Will be planning to add few more functions.
 
-Note: Groups are tested for Custome groups only.
+Note: Groups are tested for Custom groups only.
